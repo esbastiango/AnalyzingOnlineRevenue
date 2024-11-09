@@ -1,4 +1,4 @@
-# Analyzing Online Sports RevenueProduct
+# Analyzing Online Sports Revenue
 This repository contains an analysis of product data for an online sports clothing company, aimed at improving revenue through data-driven insights. The analysis leverages four datasets to examine key factors that affect sales, including pricing, reviews, product descriptions, and ratings. The project focuses on identifying patterns in product data and generating actionable recommendations for marketing and sales strategies.
 
 This project is based on the suggested project from DataCamp (https://www.datacamp.com/projects/1442), designed to provide hands-on experience in product analysis and improving business revenue.
